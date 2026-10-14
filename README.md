@@ -28,8 +28,7 @@ Temuan utama:
 - Menyusun portofolio data yang rapi
 
 ### 📫 Kontak
-- LinkedIn: *(isi link LinkedIn kamu)*
-- Email: *(isi email kamu)*
+- Email: [stallinrolin@gmail.com](mailto:stallinrolin@gmail.com)
 
 ---
 
